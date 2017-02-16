@@ -1,0 +1,55 @@
+body{
+  background-color: black;
+
+
+
+  }
+
+h1 {
+  font-family: Lobster, Monospace;
+  color: white;
+  text-align: center;
+}
+h2{
+  font-family: Lobster, Monospace;
+  color:white;
+  text-align: center;
+}
+h3{font-family: Lobster, Monospace;
+color:white;
+text-align: center;
+}
+
+button{
+margin: 0 100px;
+}
+
+.row{
+  background-color: black;
+  padding: 10px;
+  border:solid 5px white;
+  margin: 0 100px;
+  border-radius: 20%;
+}
+
+ol{
+  color:white;
+  text-align: center;
+}
+ul{
+  color:white;
+  text-align: center;
+}
+#squares{
+
+
+
+}
+p{
+  text-align: center;
+  color: white;
+}
+footer{
+  text-align: center;
+  color:white;
+}

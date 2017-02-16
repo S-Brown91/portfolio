@@ -1,0 +1,15 @@
+h1,h2{
+  font-family: lobster, monospace;
+  font-weight: lighter;
+  color:green;
+  text-align: center;
+}
+
+body{
+  background-color: black;
+
+}
+
+header{
+  height:200px;
+}
